@@ -16,8 +16,21 @@
       {
         "command": "bloc-presentation-skeleton.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "bloc-presentation-skeleton.generateCubit",
+        "title": "Presentation Skeleton: New Cubit"
       }
-    ]
+    ],
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "bloc-presentation-skeleton.generateCubit",
+          "when": "explorerResourceIsFolder",
+          "group": "z_commands"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run package",
