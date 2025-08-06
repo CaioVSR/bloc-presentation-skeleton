@@ -1,6 +1,6 @@
 # 🚀 Bloc Presentation Skeleton
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/your-username/bloc-presentation-skeleton)
+[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/CaioVSR/bloc-presentation-skeleton)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.102.0+-brightgreen.svg)](https://code.visualstudio.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-Ready-02569B.svg)](https://flutter.dev/)
 
@@ -151,7 +151,7 @@ src/
 
 ## 🐛 Known Issues
 
-Currently no known issues. If you find any, please [open an issue](https://github.com/your-username/bloc-presentation-skeleton/issues).
+Currently no known issues. If you find any, please [open an issue](https://github.com/CaioVSR/bloc-presentation-skeleton/issues).
 
 ## 📈 Release Notes
 
