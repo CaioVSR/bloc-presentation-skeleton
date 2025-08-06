@@ -2,8 +2,9 @@
   "name": "bloc-presentation-skeleton",
   "displayName": "Bloc Presentation Skeleton",
   "description": "Generate boilerplate code for Cubit/State/Presentation Events in Flutter projects.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "CaioVSR",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/CaioVSR/bloc-presentation-skeleton.git"
@@ -12,11 +13,24 @@
     "url": "https://github.com/CaioVSR/bloc-presentation-skeleton/issues"
   },
   "homepage": "https://github.com/CaioVSR/bloc-presentation-skeleton#readme",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
+    "Snippets",
     "Other"
+  ],
+  "keywords": [
+    "flutter",
+    "dart", 
+    "bloc",
+    "cubit",
+    "boilerplate",
+    "scaffold",
+    "generator",
+    "template",
+    "state management"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",

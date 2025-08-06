@@ -1,6 +1,6 @@
 # 🚀 Bloc Presentation Skeleton
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/CaioVSR/bloc-presentation-skeleton)
+[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/CaioVSR/bloc-presentation-skeleton)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.102.0+-brightgreen.svg)](https://code.visualstudio.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-Ready-02569B.svg)](https://flutter.dev/)
 
@@ -154,6 +154,12 @@ src/
 Currently no known issues. If you find any, please [open an issue](https://github.com/CaioVSR/bloc-presentation-skeleton/issues).
 
 ## 📈 Release Notes
+
+### 0.0.2 - Icon & Polish Release
+- ✅ Added custom extension icon
+- ✅ Added MIT License
+- ✅ Improved package metadata
+- ✅ Enhanced marketplace readiness
 
 ### 0.0.1 - Initial Release
 - ✅ Cubit generation with smart folder detection
